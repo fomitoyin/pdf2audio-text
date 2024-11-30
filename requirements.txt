@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+gTTS
+Pillow
+python-docx
